@@ -3,12 +3,12 @@
 
 Needed libraries:
 ---
-1. alsa-utils
-2. mplayer
+1. Alsa sound utilities
+2. MPlayer
 
 Pip libraries
 ---
-1. pyttsx3
+1. PYTTSX3
 
 ___
 Talking
