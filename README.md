@@ -11,7 +11,6 @@ What can he do?
 1. PYTTSX3
 
 ___
-
 Talking
 ---
 Step 1: We start by updating our Raspbian distribution using these commands below.
