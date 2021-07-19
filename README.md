@@ -1,4 +1,4 @@
-[Software][https://github.com/Ayman-0-Ahmed/Python-Robot#software]
+[Softwares](https://github.com/Ayman-0-Ahmed/Python-Robot#softwares)
 ___
 What can he do? (Functions)
 ---
@@ -13,7 +13,7 @@ What can he do? (Functions)
 **Pip libraries:**
 1. PYTTSX3
 ___
-[Hardware][https://github.com/Ayman-0-Ahmed/Python-Robot#hardware]
+[Hardwares][https://github.com/Ayman-0-Ahmed/Python-Robot#hardwares]
 ___
 We will need this parts (modules).
 1. [Speaker x 1 (or two)](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_speakers)
@@ -21,7 +21,7 @@ We will need this parts (modules).
 3. [Camera x 1](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_camera)
 4. (Actuators [maybe servos])
 ___
-**Software**
+**Softwares**
 ---
 Talking
 ---
@@ -68,5 +68,5 @@ Step 2: We use AI to detect if a person is visible in the camera (video). When h
 
 Step 3: He will start a timer, and stop it when he detects that the person has moved his limbs. he will save the timer data.
 ___
-**Hardware**
+**Hardwares**
 ---
