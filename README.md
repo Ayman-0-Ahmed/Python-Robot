@@ -3,13 +3,11 @@ What can he do?
 1. [He can talk.](https://github.com/Ayman-0-Ahmed/Python-Robot#talking)
 2.
 
-Needed libraries:
-___
+***Needed libraries:***
 1. Alsa sound utilities
 2. MPlayer
 
-Pip libraries
-___
+***Pip libraries:***
 1. PYTTSX3
 
 ___
