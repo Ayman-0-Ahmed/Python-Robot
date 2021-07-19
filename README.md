@@ -1,4 +1,4 @@
-+ What can he do?
+What can he do?
 ---
 1. [He can talk.](https://github.com/Ayman-0-Ahmed/Python-Robot#talking)
 2.
