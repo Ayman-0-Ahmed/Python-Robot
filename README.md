@@ -1,5 +1,7 @@
-1. Talking
-2.
+What can he do?
+---
+1. [He can talk.] (https://github.com/Ayman-0-Ahmed/Python-Robot#talking)
+2. 
 
 Needed libraries:
 ---
@@ -11,8 +13,9 @@ Pip libraries
 1. pyttsx3
 
 ___
-Talking
 
+Talking
+---
 Step 1: We start by updating our Raspbian distribution using these commands below.
 ```
 sudo apt-get update
