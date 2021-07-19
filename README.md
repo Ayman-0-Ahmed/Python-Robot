@@ -2,7 +2,7 @@
 ___
 What can he do? (Functions)
 ---
-1. He can talk. [(Talkin)](https://github.com/Ayman-0-Ahmed/Python-Robot#talking)
+1. He can talk. [(Talking)](https://github.com/Ayman-0-Ahmed/Python-Robot#talking)
 2. He can understand what you say. [(Speech Recognition)](https://github.com/Ayman-0-Ahmed/Python-Robot#movement_speech)
 3. He can copy what you do. [(Movement copying)](https://github.com/Ayman-0-Ahmed/Python-Robot#movement_copying)
 
