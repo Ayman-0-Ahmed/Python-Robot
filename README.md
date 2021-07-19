@@ -16,12 +16,16 @@ Talking
 Step 1: We start by updating our Raspbian distribution using these commands below.
 ```
 sudo apt-get update
+```
+```
 sudo apt-get upgrade
 ```
 
 Step 2: We have to install the Alsa sound utilities and MPlayer with the command below.
 ```
 sudo apt-get install alsa-utils
+```
+```
 sudo apt-get install mplayer
 ```
 
