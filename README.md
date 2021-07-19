@@ -4,12 +4,12 @@ What can he do?
 2.
 
 Needed libraries:
----
+___
 1. Alsa sound utilities
 2. MPlayer
 
 Pip libraries
----
+___
 1. PYTTSX3
 
 ___
