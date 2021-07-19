@@ -1,16 +1,28 @@
-What can he do?
+[Software][https://github.com/Ayman-0-Ahmed/Python-Robot#software]
+___
+What can he do? (Functions)
 ---
-1. [He can talk.](https://github.com/Ayman-0-Ahmed/Python-Robot#talking)
-2.
+1. He can talk. [(Talkin)](https://github.com/Ayman-0-Ahmed/Python-Robot#talking)
+2. He can understand what you say. [(Speech Recognition)](https://github.com/Ayman-0-Ahmed/Python-Robot#movement_speech)
+3. He can copy what you do. [(Movement copying)](https://github.com/Ayman-0-Ahmed/Python-Robot#movement_copying)
 
-***Needed libraries:***
+**Needed libraries:**
 1. Alsa sound utilities
 2. MPlayer
 
-***Pip libraries:***
+**Pip libraries:**
 1. PYTTSX3
-
 ___
+[Hardware][https://github.com/Ayman-0-Ahmed/Python-Robot#hardware]
+___
+We will need this parts (modules).
+1. [Speaker x 1 (or two)](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_speakers)
+2. [Microphone x 1 (or two, for better hearing)](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_microphone)
+3. [Camera x 1](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_camera)
+4. (Actuators [maybe servos])
+___
+**Software**
+---
 Talking
 ---
 Step 1: We start by updating our Raspbian distribution using these commands below.
@@ -48,3 +60,13 @@ engine.say("Hi, I am a robot. I can talk.")
 engine.runAndWait()
 ```
 ___
+Movement copying
+---
+Step 1: We first need have to add a [camera](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_camera). (because the robot has to see some thing to copy it.)
+
+Step 2: We use AI to detect if a person is visible in the camera (video). When he hears a person say Look (robot name)! can you do do this? He will Motion Track that person. He will the angles of the persons limbs.
+
+Step 3: He will start a timer, and stop it when he detects that the person has moved his limbs. he will save the timer data.
+___
+**Hardware**
+---
