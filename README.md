@@ -3,8 +3,8 @@ ___
 What can he do? (Functions)
 ---
 1. He can talk. [(Talking)](https://github.com/Ayman-0-Ahmed/Python-Robot#talking)
-2. He can understand what you say. [(Speech Recognition)](https://github.com/Ayman-0-Ahmed/Python-Robot#movement_speech)
-3. He can copy what you do. [(Movement copying)](https://github.com/Ayman-0-Ahmed/Python-Robot#movement_copying)
+2. He can understand what you say. [(Speech Recognition)](https://github.com/Ayman-0-Ahmed/Python-Robot#movement-speech)
+3. He can copy what you do. [(Movement copying)](https://github.com/Ayman-0-Ahmed/Python-Robot#movement-copying)
 
 **Needed libraries:**
 1. Alsa sound utilities
@@ -16,9 +16,9 @@ ___
 [Hardwares][https://github.com/Ayman-0-Ahmed/Python-Robot#hardwares]
 ___
 We will need this parts (modules).
-1. [Speaker x 1 (or two)](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_speakers)
-2. [Microphone x 1 (or two, for better hearing)](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_microphone)
-3. [Camera x 1](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_camera)
+1. [Speaker x 1 (or two)](https://github.com/Ayman-0-Ahmed/Python-Robot#installing-speakers)
+2. [Microphone x 1 (or two, for better hearing)](https://github.com/Ayman-0-Ahmed/Python-Robot#installing-microphone)
+3. [Camera x 1](https://github.com/Ayman-0-Ahmed/Python-Robot#installing-camera)
 4. (Actuators [maybe servos])
 ___
 **Softwares**
@@ -62,7 +62,7 @@ engine.runAndWait()
 ___
 Movement copying
 ---
-Step 1: We first need have to add a [camera](https://github.com/Ayman-0-Ahmed/Python-Robot#installing_camera). (because the robot has to see some thing to copy it.)
+Step 1: We first need have to add a [camera](https://github.com/Ayman-0-Ahmed/Python-Robot#installing-camera). (because the robot has to see some thing to copy it.)
 
 Step 2: We use AI to detect if a person is visible in the camera (video). When he hears a person say Look (robot name)! can you do do this? He will Motion Track that person. He will the angles of the persons limbs.
 
