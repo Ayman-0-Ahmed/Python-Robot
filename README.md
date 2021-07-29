@@ -13,7 +13,7 @@ What can he do? (Functions)
 **Pip libraries:**
 1. PYTTSX3
 ___
-[Hardwares][https://github.com/Ayman-0-Ahmed/Python-Robot#hardwares]
+[Hardwares](https://github.com/Ayman-0-Ahmed/Python-Robot#hardwares)
 ___
 We will need this parts (modules).
 1. [Speaker x 1 (or two)](https://github.com/Ayman-0-Ahmed/Python-Robot#installing-speakers)
