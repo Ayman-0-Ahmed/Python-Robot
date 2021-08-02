@@ -1,4 +1,4 @@
 import pyttsx3
-from function import *
+from functions.py import *
 
 engine = pyttsx3.init()
